@@ -1,1 +1,3 @@
-Protocol Beta
+Protocol Beta :
+- a
+- b
