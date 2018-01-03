@@ -1,4 +1,3 @@
 # AndRoll
 Android Remote Controller
-For Robot motion control
-Include image and voice processing
+For Robot motion control and much more
